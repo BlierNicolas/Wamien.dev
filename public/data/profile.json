@@ -1,23 +1,14 @@
 {
-    "name": "Roy Sheppard",
-    "profilePictureUrl": "images/pictures/avatar.jpg",
+    "name": "Nicolas Blier",
+    "profilePictureUrl": "images/pictures/nicolas.jpg",
     "locales": {
         "en": {
             "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
-        },
-        "es": {
-            "credits": "Hecho por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
+            "role": "Video Game Developer / Programmer-analyst"
         },
         "fr": {
             "credits": "Conçu par <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
-        },
-        "zh": {
-            "name": "罗伊谢帕德",
-            "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+            "role": "Programmeur de jeux vidéo / Programmeur-analyste"
         }
     },
     "contactOptions": [
@@ -27,66 +18,52 @@
             "href": null,
             "locales": {
                 "en": {
-                    "value": "123 Main Street, Cupertino, CA 01234",
-                    "valueShort": "Cupertino – CA"
-                },
-                "es": {
-                    "valueShort": "California – EE.UU."
+                    "value": "Montréal",
+                    "valueShort": "Quebec – CA"
                 },
                 "fr": {
-                    "valueShort": "Californie – États-Unis"
-                },
-                "zh": {
-                    "valueShort": "美国加州"
+                    "valueShort": "Québec – Canada"
                 }
             }
         },
         {
             "id": "email",
-            "value": "roy.sheppard@genius.com",
-            "valueShort": "roy.sheppard@genius.com",
+            "value": "nicolasblier@hotmail.com",
+            "valueShort": "nicolasblier@hotmail.com",
             "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:roy.sheppard@genius.com",
+            "href": "mailto:nicolasblier@hotmail.com",
             "copy": true
         },
         {
-            "id": "facebook",
-            "value": "Roy Sheppard",
-            "valueShort": "Roy S.",
-            "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com",
-            "copy": false
-        },
-        {
             "id": "github",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@BlierNicolas",
+            "valueShort": "@BlierNicolas",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com",
+            "href": "https://github.com/BlierNicolas",
             "copy": false
         },
         {
-            "id": "instagram",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
-            "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com",
+            "id": "gitlab",
+            "value": "@Wamien",
+            "valueShort": "@Wamien",
+            "faIcon": "fa-brands fa-gitlab",
+            "href": "https://gitlab.com/Wamien",
             "copy": false
         },
         {
             "id": "linkedin",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
+            "value": "@nicolas-blier",
+            "valueShort": "@nicolas-blier",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com",
+            "href": "https://linkedin.com/in/nicolas-blier",
             "copy": false
         },
         {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+1 (514) 953-6426",
+            "valueShort": "(514) 953-6426",
             "faIcon": "fa-brands fa-whatsapp",
-            "href": "tel:1234567890",
+            "href": "tel:5149536426",
             "copy": true
         },
         {
