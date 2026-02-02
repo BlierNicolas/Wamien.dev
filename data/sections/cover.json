@@ -1,0 +1,39 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["address", "email", "phone"],
+                "contact_circles_ids": ["instagram", "linkedin", "github", "gitlab", "download_resume"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "I am a developer that is motivated by challenges and always ready to improve. I quickly learn the structures in place to adapt my expertise and offer different perspectives. I am versatile and adaptable depending on the roles assigned to me."
+                        },
+                        "fr": {
+                            "description": "Je suis un développeur motivé par les défis et toujours prêt à m’améliorer. J’apprends rapidement les structures mises en place pour adapter mon expertise et proposer d’autres points de vue. Je suis polyvalent et versatile en fonction des rôles qui me sont attribués."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "People say that I am very resourceful and that I contribute positively to the success of the projects I undertake. I am someone who quickly integrates into teams and inspires trust."
+                        },
+                        "fr": {
+                            "description": "On dit de moi que je suis très débrouillard et que je contribue positivement aux succès des projets entrepris. Je suis quelqu’un qui s’intègre rapidement aux équipes et qui inspire la confiance."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

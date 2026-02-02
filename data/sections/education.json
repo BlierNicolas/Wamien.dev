@@ -1,0 +1,67 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2012, "month": 0},
+                    "dateEnd": {"year": 2016, "month": 4},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Pre-University Program in Computer Science",
+                            "description": "Almost completed (missing one philosophy class) the program covering foundational computer science topics such as programming, algorithms, and data structures. Gained hands-on experience with problem-solving and logical thinking.",
+                            "province": "Quebec",
+                            "country": "Canada",
+                            "institution": "Rosemont College",
+                            "tags": []
+                        },
+                        "fr": {
+                            "title": "Technique Informatique",
+                            "description": "A pratiquement achevé (il me reste le cours de philosophie 3 à faire) la technique informatique où on voyait la programmation, les algorithmes et les structures de données. Acquis une expérience pratique en résolution de problèmes et en pensée logique.",
+                            "province": "Québec",
+                            "country": "Canada",
+                            "institution": "Collège de Rosemont",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2023, "month": 11},
+                    "dateEnd": {"year": 2025, "month": 4},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#140f29",
+                    "locales": {
+                        "en": {
+                            "title": "Technical Course in Programming",
+                            "description": "Completed a formation focusing on the main video game engines, Unity and Unreal Engine, while learning fundamentals of C++ and C#, including object-oriented programming and game design. Developed several projects applying real-world coding skills.",
+                            "province": "Quebec",
+                            "country": "Canada",
+                            "institution": "Bois-de-Boulogne College",
+                            "tags": []
+                        },
+                        "fr": {
+                            "title": "Programmation de Jeux Vidéo",
+                            "description": "A complété une formation axé sur les engins de programmation, Unity et Unreal Engine, en y apprennant les fondamentaux de C++ et C#, y compris la programmation orientée objet et développement de jeux. A développé plusieurs projets appliquant des compétences de codage en situation réelle.",
+                            "province": "Québec",
+                            "country": "Canada",
+                            "institution": "Collège de Bois-de-Boulogne",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

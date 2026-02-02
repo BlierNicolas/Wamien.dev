@@ -1,0 +1,78 @@
+{
+    "name": "Nicolas Blier",
+    "profilePictureUrl": "images/pictures/nicolas.jpg",
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Video Game Developer / Programmer-analyst"
+        },
+        "fr": {
+            "credits": "Conçu par <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "Programmeur de jeux vidéo / Programmeur-analyste"
+        }
+    },
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "en": {
+                    "value": "Montréal",
+                    "valueShort": "Quebec – CA"
+                },
+                "fr": {
+                    "valueShort": "Québec – Canada"
+                }
+            }
+        },
+        {
+            "id": "email",
+            "value": "nicolasblier@hotmail.com",
+            "valueShort": "nicolasblier@hotmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:nicolasblier@hotmail.com",
+            "copy": true
+        },
+        {
+            "id": "github",
+            "value": "@BlierNicolas",
+            "valueShort": "@BlierNicolas",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/BlierNicolas",
+            "copy": false
+        },
+        {
+            "id": "gitlab",
+            "value": "@Wamien",
+            "valueShort": "@Wamien",
+            "faIcon": "fa-brands fa-gitlab",
+            "href": "https://gitlab.com/Wamien",
+            "copy": false
+        },
+        {
+            "id": "linkedin",
+            "value": "@nicolas-blier",
+            "valueShort": "@nicolas-blier",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com/in/nicolas-blier",
+            "copy": false
+        },
+        {
+            "id": "phone",
+            "value": "+1 (514) 953-6426",
+            "valueShort": "(514) 953-6426",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:5149536426",
+            "copy": true
+        },
+        {
+            "id": "download_resume",
+            "value": "",
+            "valueShort": "",
+            "faIcon": "fa-solid fa-file-pdf",
+            "href": "/pdf/resume.pdf",
+            "copy": false
+        }
+    ]
+}

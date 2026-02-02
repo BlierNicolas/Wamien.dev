@@ -1,0 +1,145 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2016, "month": 4},
+                    "dateEnd": {"year": 2016, "month": 7},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Internship as Web Developer",
+                            "description": "Contributed to the development of an internal tool to manage receipts and formations for the clients of the enterprise.",
+                            "list": {
+                                "title": "Key Responsibilities",
+                                "items": [
+                                    "Create the interfaces for the intranet.",
+                                    "Connect the receipt API with the website and an external site.",
+                                    "Develop admin interfaces."
+                                ]
+                            },
+                            "province": "Hannover",
+                            "country": "Germany",
+                            "institution": "UX Masters Studio",
+                            "tags": ["PHP", "Prototyping", "Responsive Design", "Intranet", "API"]
+                        },
+                        "fr": {
+                            "title": "Stage en tant que développeur web",
+                            "description": "A contribué à la conception d'un outil interne pour gérer les factures et le programme de formation pour la clientèle de l'entreprise.",
+                            "list": {
+                                "title": "Responsabilités Clés",
+                                "items": [
+                                    "Concevoir des interfaces web pour l’intranet.",
+                                    "Faire interagir les différentes pages avec l’API de facturation et de cours en ligne.",
+                                    "Développer une interface d’administration."
+                                ]
+                            },
+                            "province": "Québec",
+                            "country": "Canada",
+                            "institution": "HELPOX",
+                            "tags": ["PHP", "Prototypage", "Design Responsive", "Intranet", "API"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2017, "month": 3},
+                    "dateEnd": {"year": 2022, "month": 10},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#140f29",
+                    "locales": {
+                        "en": {
+                            "title": "Web Developer",
+                            "description": "Led the design of innovative user interfaces and experiences for <strong>Adobe's flagship products</strong>, focusing on data-driven design principles. Collaborated with product managers and engineers to create intuitive and visually appealing designs that enhance user engagement and satisfaction.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": [
+                                    "Plan and develop websites for several clients.",
+                                    "Support clients, analyse their project and evaluate the requests.",
+                                    "Develop website pages while following mockups.",
+                                    "Develop compatibility with browser and mobile format.",
+                                    "Program page components on several platforms."
+                                ]
+                            },
+                            "province": "Quebec",
+                            "country": "Canada",
+                            "institution": "Cofomo",
+                            "tags": ["Web development", "C#", "Front-End", "Back-End", "Fullstack", "API", "Mockups", "Agile/Scrum"]
+                        },
+                        "fr": {
+                            "title": "Développeur web",
+                            "description": "A dirigé la conception d'interfaces utilisateur innovantes et d'expériences pour les <strong>produits phares d'Adobe</strong>, en mettant l'accent sur les principes de conception basés sur les données. A collaboré avec des chefs de produit et des ingénieurs pour créer des designs intuitifs et visuellement attrayants qui améliorent l'engagement et la satisfaction des utilisateurs.",
+                            "list": {
+                                "title": "Responsabilités Clés:",
+                                "items": [
+                                    "Participer au développement de sites web pour différents clients.",
+                                    "Accompagner les clients, l’analyse de projets et la faisabilité des demandes.",
+                                    "Développer les pages des sites selon les plans indiqués.",
+                                    "Assurer que les sites soient compatibles sur desktop et mobile.",
+                                    "Programmer des composantes de sites web sur différentes plateformes."
+                                ]
+                            },
+                            "province": "Québec",
+                            "country": "Canada",
+                            "institution": "Cofomo",
+                            "tags": ["Développement web", "C#", "Front-End", "Back-End", "Fullstack", "API", "Mockups", "Agile/Scrum"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2025, "month": 1},
+                    "dateEnd": {"year": 2025, "month": 4},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#f40f29",
+                    "locales": {
+                        "en": {
+                            "title": "Internship as Video Game Programer",
+                            "description": "Help with the development of the newest game developed by the team. My main goal was to add game mecanics, help with the balancing, optimise the code so the game run smoothly on all devices, participate on the brainstorming and fix bugs and issues in the game.",
+                            "list": {
+                                "title": "Key Responsibilities:",
+                                "items": [
+                                    "Add gameplay features to the game.",
+                                    "Find and fix the bugs.",
+                                    "Optimise the game to work on consoles."
+                                ]
+                            },
+                            "province": "Quebec",
+                            "country": "Canada",
+                            "institution": "Tobafeu Studio",
+                            "tags": ["Unity", "Gameplay", "Balancing", "Optimisation", "Brainstorming", "Bug fixing"]
+                        },
+                        "fr": {
+                            "title": "Stagiaire en tant que développeur de jeux vidéo",
+                            "description": "Aide au développement du jeu le plus récent développé par le studio. Mon but principal a été d'ajouter des mécaniques de gameplay, ensuite d'aider à l'équilibrage, optimiser le code pour que le jeu fonctionne parfaitement sur tous les appareils, participer au brainstorming et corriger les bugs et problèmes dans le jeu.",
+                            "list": {
+                                "title": "Responsabilités Clés:",
+                                "items": [
+                                    "Ajouter des fonctionnalités gameplay au jeu.",
+                                    "Corriger les bugs qui ont été identifiés.",
+                                    "Optimiser le code pour le portage sur consoles."
+                                ]
+                            },
+                            "province": "Québec",
+                            "country": "Canada",
+                            "institution": "Tobafeu Studio",
+                            "tags": ["Unity", "Gameplay", "Équilibrage", "Optimisation", "Brainstorming", "Correction de bug"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

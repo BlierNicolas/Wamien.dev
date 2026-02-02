@@ -1,0 +1,641 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-paint-roller",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Design Principles",
+                            "description": "Masterful at creating captivating designs, blending color theory, typography, layout, and balance for effective messaging.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Principes de Conception",
+                            "description": "Habile en design: utilise principes couleur, typo, composition et équilibre pour captiver et transmettre efficacement.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-mobile-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Responsive Layouts",
+                            "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Mises en Page Réactives",
+                            "description": "Compétent pour créer des mises en page adaptables pour divers appareils, assurant une expérience utilisateur optimale.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-vector-square",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Wireframing",
+                            "description": "Skilled in creating detailed wireframes to visualize and plan user interfaces, effectively laying the foundation for intuitive design.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Création de Wireframes",
+                            "description": "Compétent dans la création de wireframes détaillés pour visualiser et planifier les interfaces utilisateur.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-check-double",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Usability Testing",
+                            "description": "Enhancing user experiences through comprehensive usability testing.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Tests d'Utilisabilité",
+                            "description": "Expérimenté dans l'amélioration des expériences utilisateur grâce à des tests d'utilisabilité.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-expand-arrows-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Interaction Design",
+                            "description": "Proficient in creating intuitive and seamless interactions for user-friendly experiences, harmonizing aesthetics and usability.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Design d'Interaction",
+                            "description": "Compétent dans la création d'interactions intuitives et fluides pour des expériences conviviales.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Prototyping",
+                            "description": "Skilled in translating concepts into interactive prototypes for testing and refinement.",
+                            "level": null
+                        },
+                        "fr": {
+                            "title": "Prototypage",
+                            "description": "Compétent dans la traduction de concepts en prototypes interactifs pour des tests et affinages.",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Game engine"},
+                "fr": {"title": "Engin de jeux vidéo"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2017, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-unity",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Unity",
+                            "description": "Experienced with Unity."
+                        },
+                        "fr": {
+                            "title": "Unity",
+                            "description": "Expérimenté avec Unity."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2025, "month": 6},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-unreal-engine",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Unreal Engine",
+                            "description": "Base knowledge with Unreal Engine."
+                        },
+                        "fr": {
+                            "title": "Unreal Engine",
+                            "description": "Compétent avec Unreal Engine."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2025, "month": 8},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-godot",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Godot",
+                            "description": "Learning Godot."
+                        },
+                        "fr": {
+                            "title": "Godot",
+                            "description": "En apprentissage de Godot."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "Langage de programmation": ["C#", "C++", "JSON", "HTML", "CSS", "ReactJS", "VueJS", "PHP"],
+            "Environnement de développement": ["Visual Studio", "Visual Studio Code", "Rider"],
+            "Contrôle de version": ["GitHub", "GitLab", "Perforce"],
+            "Méthodologies": ["Agile/Scrum", "MVC", "SOLID", "Atomic Design"],
+            "Base de données": ["Firebase", "MySQL", "SQL", "GraphQL"],
+            "Gestion de projets": ["Trello", "Handsoft", "Confluence", "Jira", "Norton", "Obsidian"],
+            "Système de gestion de contenu (CMS)": ["Sitecore", "Optimizely", "Contentful"]
+        },
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Programming languages"},
+                "fr": {"title": "Langage de programmation"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2014, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-csharp",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "C#",
+                            "description": "Experienced with C# elements and features."
+                        },
+                        "fr": {
+                            "title": "C#",
+                            "description": "Expérimenté avec les éléments et fonctionnalités C#."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2014, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-cplusplus",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "C++",
+                            "description": "Experienced with C++ elements and features."
+                        },
+                        "fr": {
+                            "title": "C++",
+                            "description": "Expérimenté avec les éléments et fonctionnalités C++."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2015, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-json",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "JSON",
+                            "description": "Experienced with JSON elements and features."
+                        },
+                        "fr": {
+                            "title": "JSON",
+                            "description": "Expérimenté avec les éléments et fonctionnalités JSON."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2014, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "HTML 5",
+                            "description": "Experienced with HTML5 elements and features."
+                        },
+                        "fr": {
+                            "title": "HTML 5",
+                            "description": "Expérimenté avec les éléments et fonctionnalités HTML5."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2014, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "CSS 3",
+                            "description": "Skilled in advanced CSS3 techniques like flexbox and animations."
+                        },
+                        "fr": {
+                            "title": "CSS 3",
+                            "description": "Compétent dans les techniques avancées CSS3 comme flexbox et animations."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2014, "month": 8},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-js-square",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Javascript",
+                            "description": "Skilled in JavaScript for dynamic, interactive web applications."
+                        },
+                        "fr": {
+                            "title": "Javascript",
+                            "description": "Compétent en JavaScript pour des applications web dynamiques et interactives."
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "dateStart": {"year": 2020, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-react",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "React",
+                            "description": "Experienced in building interactive UIs with React, using hooks and component-based architecture."
+                        },
+                        "fr": {
+                            "title": "React",
+                            "description": "Expérimenté dans la création d'interfaces interactives avec React, en utilisant des hooks et une architecture basée sur des composants."
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "dateStart": {"year": 2022, "month": 3},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Vue 3",
+                            "description": "Learning VueJS."
+                        },
+                        "fr": {
+                            "title": "Vue 3",
+                            "description": "En apprentissage de VueJS."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Programming languages"},
+                "fr": {"title": "Langage de programmation"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2019, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "HTML 5",
+                            "description": "Experienced with HTML5 elements and features."
+                        },
+                        "fr": {
+                            "title": "HTML 5",
+                            "description": "Expérimenté avec les éléments et fonctionnalités HTML5."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2021, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "CSS 3",
+                            "description": "Skilled in advanced CSS3 techniques like flexbox and animations."
+                        },
+                        "fr": {
+                            "title": "CSS 3",
+                            "description": "Compétent dans les techniques avancées CSS3 comme flexbox et animations."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2017, "month": 8},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-js-square",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Javascript",
+                            "description": "Skilled in JavaScript for dynamic, interactive web applications."
+                        },
+                        "fr": {
+                            "title": "Javascript",
+                            "description": "Compétent en JavaScript pour des applications web dynamiques et interactives."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2017, "month": 3},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Vue 3",
+                            "description": "Capable of building and deploying complex Vue applications."
+                        },
+                        "fr": {
+                            "title": "Vue 3",
+                            "description": "Capable de créer et déployer des applications complexes avec Vue."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2024, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-react",
+                    "fallbackFaIconColor": null,
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "React",
+                            "description": "Experienced in building interactive UIs with React, using hooks and component-based architecture."
+                        },
+                        "fr": {
+                            "title": "React",
+                            "description": "Expérimenté dans la création d'interfaces interactives avec React, en utilisant des hooks et une architecture basée sur des composants."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2022, "month": 11},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-angular",
+                    "fallbackFaIconColor": null,
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "Angular",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "Angular",
+                            "description": ""
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Backend Stack"},
+                "fr": {"title": "Stack Backend"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2020, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "description": "Skilled in managing MySQL databases, including schema design and query optimization."
+                        },
+                        "fr": {
+                            "title": "MySQL",
+                            "description": "Compétent dans la gestion de bases de données MySQL, y compris la conception de schémas et l'optimisation des requêtes."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2021, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-php",
+                    "fallbackFaIconColor": null,
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "PHP",
+                            "description": "Experienced in building dynamic web apps with PHP, including server-side logic and database integration."
+                        },
+                        "fr": {
+                            "title": "PHP",
+                            "description": "Expérimenté dans la création d'applications web dynamiques avec PHP, y compris la logique serveur et l'intégration de bases de données."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2022, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "fallbackFaIconColor": null,
+                    "percentage": 55,
+                    "locales": {
+                        "en": {
+                            "title": "Laravel",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "Laravel",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2023, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-node",
+                    "fallbackFaIconColor": null,
+                    "percentage": 40,
+                    "locales": {
+                        "en": {
+                            "title": "NodeJS",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "NodeJS",
+                            "description": ""
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Languages"},
+                "fr": {"title": "Langues"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "small_icons": true,
+                "transparent_item_icon_background": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": "images/flags/fr.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "French",
+                            "description": "Native speaker with excellent communication and writing skills.",
+                            "level": "Native"
+                        },
+                        "fr": {
+                            "title": "Français",
+                            "description": "Langue maternelle avec d'excellentes compétences en communication et en écriture.",
+                            "level": "Langue maternelle"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": "images/flags/en-us.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "description": "Fluent in both spoken and written English; confident in professional communication.",
+                            "level": "Professionnal"
+                        },
+                        "fr": {
+                            "title": "Anglais",
+                            "description": "Courant à la fois à l'oral et à l'écrit en anglais ; confiant dans la communication professionnelle.",
+                            "level": "Professionnel"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
