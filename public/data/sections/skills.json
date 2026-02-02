@@ -205,15 +205,6 @@
             ]
         },
         {
-            "Langage de programmation": ["C#", "C++", "JSON", "HTML", "CSS", "ReactJS", "VueJS", "PHP"],
-            "Environnement de développement": ["Visual Studio", "Visual Studio Code", "Rider"],
-            "Contrôle de version": ["GitHub", "GitLab", "Perforce"],
-            "Méthodologies": ["Agile/Scrum", "MVC", "SOLID", "Atomic Design"],
-            "Base de données": ["Firebase", "MySQL", "SQL", "GraphQL"],
-            "Gestion de projets": ["Trello", "Handsoft", "Confluence", "Jira", "Norton", "Obsidian"],
-            "Système de gestion de contenu (CMS)": ["Sitecore", "Optimizely", "Contentful"]
-        },
-        {
             "id": 3,
             "component": "ArticleSkills",
             "locales": {
@@ -371,8 +362,8 @@
             "id": 3,
             "component": "ArticleSkills",
             "locales": {
-                "en": {"title": "Programming languages"},
-                "fr": {"title": "Langage de programmation"}
+                "en": {"title": "IDE"},
+                "fr": {"title": "Environnement de développement"}
             },
             "settings": {
                 "order_items_by": "id",
@@ -385,104 +376,120 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2019, "month": 4},
+                    "dateStart": {"year": 2009, "month": 4},
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-html5",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "HTML 5",
-                            "description": "Experienced with HTML5 elements and features."
+                            "title": "Visual Studio",
+                            "description": "Experienced with Visual Studio."
                         },
                         "fr": {
-                            "title": "HTML 5",
-                            "description": "Expérimenté avec les éléments et fonctionnalités HTML5."
+                            "title": "Visual Studio",
+                            "description": "Expérimenté avec Visual Studio."
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "dateStart": {"year": 2021, "month": 4},
+                    "dateStart": {"year": 2019, "month": 4},
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-css3-alt",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "CSS 3",
-                            "description": "Skilled in advanced CSS3 techniques like flexbox and animations."
+                            "title": "Visual Studio Code",
+                            "description": "Experienced with Visual Studio Code."
                         },
                         "fr": {
-                            "title": "CSS 3",
-                            "description": "Compétent dans les techniques avancées CSS3 comme flexbox et animations."
+                            "title": "Visual Studio Code",
+                            "description": "Expérimenté avec Visual Studio Code."
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "dateStart": {"year": 2017, "month": 8},
+                    "dateStart": {"year": 2024, "month": 8},
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-js-square",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "Javascript",
-                            "description": "Skilled in JavaScript for dynamic, interactive web applications."
+                            "title": "Rider",
+                            "description": "Skilled with Rider."
                         },
                         "fr": {
-                            "title": "Javascript",
-                            "description": "Compétent en JavaScript pour des applications web dynamiques et interactives."
+                            "title": "Rider",
+                            "description": "Compétent avec Rider."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Version control"},
+                "fr": {"title": "Contrôle de version"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2012, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-github",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "GitHub",
+                            "description": "Skilled with GitHub."
+                        },
+                        "fr": {
+                            "title": "GitHub",
+                            "description": "Compétent avec GitHub."
                         }
                     }
                 },
                 {
-                    "id": 4,
-                    "dateStart": {"year": 2017, "month": 3},
+                    "id": 2,
+                    "dateStart": {"year": 2019, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIcon": "fa-brands fa-gitlab",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "Vue 3",
-                            "description": "Capable of building and deploying complex Vue applications."
+                            "title": "GitLab",
+                            "description": "Skilled with GitLab."
                         },
                         "fr": {
-                            "title": "Vue 3",
-                            "description": "Capable de créer et déployer des applications complexes avec Vue."
+                            "title": "GitLab",
+                            "description": "Compétent avec GitLab."
                         }
                     }
                 },
                 {
-                    "id": 5,
-                    "dateStart": {"year": 2024, "month": 1},
+                    "id": 3,
+                    "dateStart": {"year": 2025, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-react",
+                    "fallbackFaIcon": "fa-brands fa-perforce",
                     "fallbackFaIconColor": null,
-                    "percentage": 75,
                     "locales": {
                         "en": {
-                            "title": "React",
-                            "description": "Experienced in building interactive UIs with React, using hooks and component-based architecture."
-                        },
-                        "fr": {
-                            "title": "React",
-                            "description": "Expérimenté dans la création d'interfaces interactives avec React, en utilisant des hooks et une architecture basée sur des composants."
-                        }
-                    }
-                },
-                {
-                    "id": 6,
-                    "dateStart": {"year": 2022, "month": 11},
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-angular",
-                    "fallbackFaIconColor": null,
-                    "percentage": 75,
-                    "locales": {
-                        "en": {
-                            "title": "Angular",
+                            "title": "Perforce",
                             "description": ""
                         },
                         "fr": {
-                            "title": "Angular",
+                            "title": "Perforce",
                             "description": ""
                         }
                     }
@@ -490,11 +497,183 @@
             ]
         },
         {
-            "id": 3,
+            "id": 5,
             "component": "ArticleSkills",
             "locales": {
-                "en": {"title": "Backend Stack"},
-                "fr": {"title": "Stack Backend"}
+                "en": {"title": "Methodologies"},
+                "fr": {"title": "Méthodologies"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2016, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-github",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Agile/Scrum",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "Agile/Scrum",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2014, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-gitlab",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "MVC",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "MVC",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2018, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-perforce",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "SOLID",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "SOLID",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2016, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-perforce",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Atomic Design",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "Atomic Design",
+                            "description": ""
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Database"},
+                "fr": {"title": "Base de données"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2018, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-firebase",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Firebase",
+                            "description": "Skilled with Firebase."
+                        },
+                        "fr": {
+                            "title": "Firebase",
+                            "description": "Compétent avec Firebase."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2014, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-mysql",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "description": "Skilled with MySQL."
+                        },
+                        "fr": {
+                            "title": "MySQL",
+                            "description": "Compétent avec MySQL."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2014, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-sql",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "SQL",
+                            "description": "Skilled with SQL."
+                        },
+                        "fr": {
+                            "title": "SQL",
+                            "description": "Compétent avec SQL."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2018, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-graphql",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "GraphQL",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "GraphQL",
+                            "description": ""
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Project Management"},
+                "fr": {"title": "Gestion de projets"}
             },
             "settings": {
                 "order_items_by": "id",
@@ -509,70 +688,100 @@
                     "id": 1,
                     "dateStart": {"year": 2020, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIcon": "fa-solid fa-github",
                     "fallbackFaIconColor": null,
-                    "percentage": 85,
                     "locales": {
                         "en": {
-                            "title": "MySQL",
-                            "description": "Skilled in managing MySQL databases, including schema design and query optimization."
+                            "title": "Trello",
+                            "description": ""
                         },
                         "fr": {
-                            "title": "MySQL",
-                            "description": "Compétent dans la gestion de bases de données MySQL, y compris la conception de schémas et l'optimisation des requêtes."
+                            "title": "Trello",
+                            "description": ""
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "dateStart": {"year": 2021, "month": 1},
+                    "dateStart": {"year": 2024, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-php",
+                    "fallbackFaIcon": "fa-brands fa-gitlab",
                     "fallbackFaIconColor": null,
-                    "percentage": 80,
                     "locales": {
                         "en": {
-                            "title": "PHP",
-                            "description": "Experienced in building dynamic web apps with PHP, including server-side logic and database integration."
+                            "title": "Hansoft",
+                            "description": ""
                         },
                         "fr": {
-                            "title": "PHP",
-                            "description": "Expérimenté dans la création d'applications web dynamiques avec PHP, y compris la logique serveur et l'intégration de bases de données."
+                            "title": "Hansoft",
+                            "description": ""
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "dateStart": {"year": 2022, "month": 1},
+                    "dateStart": {"year": 2021, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "fallbackFaIcon": "fa-brands fa-perforce",
                     "fallbackFaIconColor": null,
-                    "percentage": 55,
                     "locales": {
                         "en": {
-                            "title": "Laravel",
+                            "title": "Confluence",
                             "description": ""
                         },
                         "fr": {
-                            "title": "Laravel",
+                            "title": "Confluence",
                             "description": ""
                         }
                     }
                 },
                 {
                     "id": 4,
-                    "dateStart": {"year": 2023, "month": 1},
+                    "dateStart": {"year": 2016, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-node",
+                    "fallbackFaIcon": "fa-solid fa-github",
                     "fallbackFaIconColor": null,
-                    "percentage": 40,
                     "locales": {
                         "en": {
-                            "title": "NodeJS",
+                            "title": "JIRA",
                             "description": ""
                         },
                         "fr": {
-                            "title": "NodeJS",
+                            "title": "JIRA",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2025, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-gitlab",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Notion",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "Notion",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2025, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-perforce",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Obsidian",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "Obsidian",
                             "description": ""
                         }
                     }
@@ -580,7 +789,76 @@
             ]
         },
         {
-            "id": 4,
+            "id": 8,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "CMS"},
+                "fr": {"title": "Gestion de contenu"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2017, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-github",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Sitecore",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "Sitecore",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2018, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-gitlab",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Optimizely",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "Optimizely",
+                            "description": ""
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2018, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-perforce",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Contentful",
+                            "description": ""
+                        },
+                        "fr": {
+                            "title": "Contentful",
+                            "description": ""
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 9,
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Languages"},
