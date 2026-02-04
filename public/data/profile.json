@@ -67,6 +67,14 @@
             "copy": true
         },
         {
+            "id": "itch.io",
+            "value": "",
+            "valueShort": "",
+            "faIcon": "fa-brands fa-itch-io",
+            "href": "https://wamien.itch.io/",
+            "copy": false
+        },
+        {
             "id": "download_resume",
             "value": "",
             "valueShort": "",
