@@ -17,7 +17,7 @@
                     "id": 1,
                     "dateStart": null,
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-paint-roller",
+                    "fallbackFaIcon": "fa-solid fa-folder",
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
@@ -27,8 +27,8 @@
                             "level": null
                         },
                         "fr": {
-                            "title": "Principes de Conception",
-                            "description": "Habile en design: utilise principes couleur, typo, composition et équilibre pour captiver et transmettre efficacement.",
+                            "title": "Sens de l'organisation",
+                            "description": "Fais preuve d'un grand sens de l'organisation en prennant conscience des objectifs et de comment y parvenir.",
                             "level": null
                         }
                     }
@@ -57,7 +57,7 @@
                     "id": 3,
                     "dateStart": null,
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-vector-square",
+                    "fallbackFaIcon": "fa-solid fa-brain",
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
@@ -67,8 +67,8 @@
                             "level": null
                         },
                         "fr": {
-                            "title": "Création de Wireframes",
-                            "description": "Compétent dans la création de wireframes détaillés pour visualiser et planifier les interfaces utilisateur.",
+                            "title": "Créatif",
+                            "description": "Capable de visualiser et imaginer comment certaines composantes peuvent fonctionner.",
                             "level": null
                         }
                     }
@@ -97,7 +97,7 @@
                     "id": 5,
                     "dateStart": null,
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-expand-arrows-alt",
+                    "fallbackFaIcon": "fa-solid fa-magnifying-glass",
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
@@ -107,8 +107,8 @@
                             "level": null
                         },
                         "fr": {
-                            "title": "Design d'Interaction",
-                            "description": "Compétent dans la création d'interactions intuitives et fluides pour des expériences conviviales.",
+                            "title": "Analytique",
+                            "description": "Fort esprit d'analyse et capable de proposer plusieurs solutions à un problème.",
                             "level": null
                         }
                     }
@@ -172,7 +172,7 @@
                     "id": 2,
                     "dateStart": {"year": 2025, "month": 6},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-unreal-engine",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -189,7 +189,7 @@
                     "id": 3,
                     "dateStart": {"year": 2025, "month": 8},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-godot",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -224,7 +224,7 @@
                     "id": 1,
                     "dateStart": {"year": 2014, "month": 4},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-csharp",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -241,7 +241,7 @@
                     "id": 2,
                     "dateStart": {"year": 2014, "month": 4},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-cplusplus",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -258,7 +258,7 @@
                     "id": 3,
                     "dateStart": {"year": 2015, "month": 4},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-json",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -378,7 +378,7 @@
                     "id": 1,
                     "dateStart": {"year": 2009, "month": 4},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -395,7 +395,7 @@
                     "id": 2,
                     "dateStart": {"year": 2019, "month": 4},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -412,7 +412,7 @@
                     "id": 3,
                     "dateStart": {"year": 2024, "month": 8},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-js-square",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -447,7 +447,7 @@
                     "id": 1,
                     "dateStart": {"year": 2012, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-github",
+                    "fallbackFaIcon": "fa-brands fa-github",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -481,7 +481,7 @@
                     "id": 3,
                     "dateStart": {"year": 2025, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-perforce",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -516,7 +516,7 @@
                     "id": 1,
                     "dateStart": {"year": 2016, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-github",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -533,7 +533,7 @@
                     "id": 2,
                     "dateStart": {"year": 2014, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-gitlab",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -550,7 +550,7 @@
                     "id": 3,
                     "dateStart": {"year": 2018, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-perforce",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -567,7 +567,7 @@
                     "id": 4,
                     "dateStart": {"year": 2016, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-perforce",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -602,7 +602,7 @@
                     "id": 1,
                     "dateStart": {"year": 2018, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-firebase",
+                    "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -619,7 +619,7 @@
                     "id": 2,
                     "dateStart": {"year": 2014, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-mysql",
+                    "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -636,7 +636,7 @@
                     "id": 3,
                     "dateStart": {"year": 2014, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-sql",
+                    "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -653,7 +653,7 @@
                     "id": 4,
                     "dateStart": {"year": 2018, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-graphql",
+                    "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -688,7 +688,7 @@
                     "id": 1,
                     "dateStart": {"year": 2020, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-github",
+                    "fallbackFaIcon": "fa-brands fa-trello",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -705,7 +705,7 @@
                     "id": 2,
                     "dateStart": {"year": 2024, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-gitlab",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -722,7 +722,7 @@
                     "id": 3,
                     "dateStart": {"year": 2021, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-perforce",
+                    "fallbackFaIcon": "fa-brands fa-confluence",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -739,7 +739,7 @@
                     "id": 4,
                     "dateStart": {"year": 2016, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-github",
+                    "fallbackFaIcon": "fa-brands fa-jira",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -756,7 +756,7 @@
                     "id": 5,
                     "dateStart": {"year": 2025, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-gitlab",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -773,7 +773,7 @@
                     "id": 6,
                     "dateStart": {"year": 2025, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-perforce",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -808,7 +808,7 @@
                     "id": 1,
                     "dateStart": {"year": 2017, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-github",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -825,7 +825,7 @@
                     "id": 2,
                     "dateStart": {"year": 2018, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-gitlab",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
@@ -842,7 +842,7 @@
                     "id": 3,
                     "dateStart": {"year": 2018, "month": 1},
                     "img": null,
-                    "fallbackFaIcon": "fa-brands fa-perforce",
+                    "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {

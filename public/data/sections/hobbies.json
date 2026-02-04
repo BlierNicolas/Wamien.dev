@@ -5,9 +5,7 @@
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": null},
-                "es": {"title": null},
-                "fr": {"title": null},
-                "zh": {"title": null}
+                "fr": {"title": null}
             },
             "settings": {
                 "order_items_by": "id",
@@ -24,26 +22,16 @@
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-users",
                     "fallbackFaIconColor": "#FF6384",
-                    "percentage": 15,
+                    "percentage": 16,
                     "locales": {
                         "en": {
                             "title": "Family Time",
                             "description": "Time spent with cherished loved ones.",
                             "level": null
                         },
-                        "es": {
-                            "title": "Familia",
-                            "description": "Tiempo con seres queridos apreciados.",
-                            "level": null
-                        },
                         "fr": {
                             "title": "Famille",
                             "description": "Temps passé avec des proches chéris.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "家人和朋友",
-                            "description": "与珍爱的亲人共度时光，创造终身难忘的回忆。",
                             "level": null
                         }
                     }
@@ -54,26 +42,16 @@
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-tasks",
                     "fallbackFaIconColor": "#36A2EB",
-                    "percentage": 29,
+                    "percentage": 41,
                     "locales": {
                         "en": {
                             "title": "My Projects",
                             "description": "Pursuing my creative endeavors.",
                             "level": null
                         },
-                        "es": {
-                            "title": "Mis Proyectos",
-                            "description": "Persiguiendo mis proyectos creativos.",
-                            "level": null
-                        },
                         "fr": {
                             "title": "Mes Projets",
                             "description": "Poursuivre mes projets créatifs.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "个人项目",
-                            "description": "追求创意事业，将想法变成现实。",
                             "level": null
                         }
                     }
@@ -84,26 +62,16 @@
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-couch",
                     "fallbackFaIconColor": "#FFCD56",
-                    "percentage": 11,
+                    "percentage": 15,
                     "locales": {
                         "en": {
                             "title": "Relaxing",
-                            "description": "Being lazy and proud of it :)",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Relajación",
-                            "description": "Vagueando y orgulloso de ello :)",
+                            "description": "The time to breathe and meditate.",
                             "level": null
                         },
                         "fr": {
                             "title": "Détente",
-                            "description": "Flemmard et fier de l’être :)",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "放松",
-                            "description": "摆烂并为此自豪 :)",
+                            "description": "Le temps pour respirer et méditer.",
                             "level": null
                         }
                     }
@@ -121,19 +89,9 @@
                             "description": "Embarking on a continuous journey of learning.",
                             "level": null
                         },
-                        "es": {
-                            "title": "Estudio",
-                            "description": "Embarcando en un viaje continuo de aprendizaje.",
-                            "level": null
-                        },
                         "fr": {
                             "title": "Études",
                             "description": "Entamer un voyage continu d'apprentissage.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "学习",
-                            "description": "踏上持续的学习和自我提升之旅。",
                             "level": null
                         }
                     }
@@ -144,26 +102,16 @@
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-dumbbell",
                     "fallbackFaIconColor": "#8EE3C5",
-                    "percentage": 17,
+                    "percentage": 9,
                     "locales": {
                         "en": {
                             "title": "Exercising",
                             "description": "Dedicating time to physical well-being.",
                             "level": null
                         },
-                        "es": {
-                            "title": "Ejercicio",
-                            "description": "Dedicando tiempo al bienestar físico.",
-                            "level": null
-                        },
                         "fr": {
                             "title": "Exercice",
                             "description": "Consacrer du temps au bien-être physique.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "锻炼",
-                            "description": "致力于身体健康，培养健康的生活方式。",
                             "level": null
                         }
                     }
@@ -174,26 +122,16 @@
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-utensils",
                     "fallbackFaIconColor": "#EEB79A",
-                    "percentage": 19,
+                    "percentage": 10,
                     "locales": {
                         "en": {
                             "title": "Cooking",
-                            "description": "Creating culinary masterpieces.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Cocina",
-                            "description": "Creando obras maestras culinarias.",
+                            "description": "Trying out new recipies.",
                             "level": null
                         },
                         "fr": {
                             "title": "Cuisine",
-                            "description": "Créer des chefs-d'œuvre culinaires.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "烹饪",
-                            "description": "创造烹饪杰作，在每道菜肴中注入风味。",
+                            "description": "Essayer d'apprendre de nouvelles recette.",
                             "level": null
                         }
                     }
@@ -207,14 +145,8 @@
                 "en": {
                     "title": "Side pursuits"
                 },
-                "es": {
-                    "title": "Exploraciones"
-                },
                 "fr": {
                     "title": "Intérêts annexes"
-                },
-                "zh": {
-                    "title": "额外兴趣"
                 }
             },
             "settings": {
@@ -230,28 +162,18 @@
                     "id": 1,
                     "dateStart": null,
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-paint-brush",
+                    "fallbackFaIcon": "fa-solid fa-pencil",
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "User Experience Design",
-                            "description": "Proficient in crafting user-centric digital experiences. Adept at making technology intuitive and accessible, enhancing user satisfaction.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Diseño de Experiencia de Usuario",
-                            "description": "Destacada habilidad en crear experiencias digitales centradas en el usuario. Experto en hacer que la tecnología sea intuitiva y accesible, mejorando la satisfacción del usuario.",
+                            "title": "Writting stories",
+                            "description": "Spending 15 minutes per day in story writting for the universe I am building.",
                             "level": null
                         },
                         "fr": {
-                            "title": "Conception d'Expérience Utilisateur",
-                            "description": "Compétent dans la création d'expériences numériques centrées sur l'utilisateur. Habile à rendre la technologie intuitive et accessible, améliorant la satisfaction des utilisateurs.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "用户体验设计",
-                            "description": "擅长创造以用户为中心的数字体验。精通使技术直观易用，提升用户满意度。",
+                            "title": "Écrire des histoires",
+                            "description": "Passer 15 minutes par jour dans la rédaction d'histoires pour mon univer fantastique.",
                             "level": null
                         }
                     }
@@ -265,23 +187,13 @@
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "Programming",
-                            "description": "Exploring code, algorithms, and building software solutions for real-world challenges.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Programación",
-                            "description": "Explorar código, algoritmos y desarrollar soluciones de software para desafíos del mundo real.",
+                            "title": "Prototyping video game idea",
+                            "description": "Developing and prototyping video game ideas.",
                             "level": null
                         },
                         "fr": {
-                            "title": "Programmation",
-                            "description": "Exploration du code, des algorithmes et création de solutions logicielles pour des défis réels.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "编程",
-                            "description": "探索代码、算法，为现实世界的挑战构建软件解决方案。",
+                            "title": "Prototyper des idées de jeux vidéo",
+                            "description": "Développer des idées pour des prototypes de jeux.",
                             "level": null
                         }
                     }
@@ -296,22 +208,12 @@
                     "locales": {
                         "en": {
                             "title": "Music",
-                            "description": "Playing instruments, composing, and embracing the harmony of diverse musical genres.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Música",
-                            "description": "Tocar instrumentos, componer y abrazar la armonía de diversos géneros musicales.",
+                            "description": "Listening music while working is the best way for me to be in the zone.",
                             "level": null
                         },
                         "fr": {
                             "title": "Musique",
-                            "description": "Jouer d'instruments, composer et apprécier l'harmonie de genres musicaux variés.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "音乐",
-                            "description": "演奏乐器，作曲，融合多种音乐流派的和谐。",
+                            "description": "Écouter de la musique en travaillant est le meilleur moyen d'entrer dans ma bulle.",
                             "level": null
                         }
                     }
@@ -320,58 +222,18 @@
                     "id": 4,
                     "dateStart": null,
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-users",
+                    "fallbackFaIcon": "fa-solid fa-dungeon",
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "User Research",
-                            "description": "Delving into user behavior and insights to shape effective design strategies.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Investigación de Usuarios",
-                            "description": "Profundizar en el comportamiento y perspectivas del usuario para definir estrategias de diseño efectivas.",
+                            "title": "Game master and player",
+                            "description": "Master in the art of creating scenarios and challenges for my players, and master in the art of breaking the challenges set by my game masters.",
                             "level": null
                         },
                         "fr": {
-                            "title": "Recherche Utilisateur",
-                            "description": "Explorer le comportement et les perceptions des utilisateurs pour façonner des stratégies de conception efficaces.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "用户研究",
-                            "description": "深入研究用户行为和见解，塑造有效的设计策略。",
-                            "level": null
-                        }
-                    }
-                },
-                {
-                    "id": 5,
-                    "dateStart": null,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-desktop",
-                    "fallbackFaIconColor": null,
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Front-End Development",
-                            "description": "Crafting interactive web interfaces using modern technologies for seamless user experiences.",
-                            "level": null
-                        },
-                        "es": {
-                            "title": "Desarrollo Front-End",
-                            "description": "Elaborar interfaces web interactivas utilizando tecnologías modernas para experiencias de usuario fluidas.",
-                            "level": null
-                        },
-                        "fr": {
-                            "title": "Développement Frontal",
-                            "description": "Conception d'interfaces web interactives utilisant des technologies modernes pour des expériences utilisateur fluides.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "前端开发",
-                            "description": "使用现代技术打造交互式网页界面，实现无缝的用户体验。",
+                            "title": "Maître de jeu et joueur",
+                            "description": "Maître dans l'art de créer des scénarios et des épreuves pour mes joueurs et maître dans l'art de briser les épreuves de mes maîtres de jeu.",
                             "level": null
                         }
                     }
@@ -380,28 +242,18 @@
                     "id": 6,
                     "dateStart": null,
                     "img": null,
-                    "fallbackFaIcon": "fa-solid fa-palette",
+                    "fallbackFaIcon": "fa-brands fa-twitch",
                     "fallbackFaIconColor": null,
                     "percentage": null,
                     "locales": {
                         "en": {
-                            "title": "Visual Arts",
+                            "title": "Streamer on Twitch and Youtube",
                             "description": "Exploring visual aesthetics, graphic design, and expressing ideas through artistic creativity.",
                             "level": null
                         },
-                        "es": {
-                            "title": "Artes Visuales",
-                            "description": "Explorar la estética visual, el diseño gráfico y expresar ideas a través de la creatividad artística.",
-                            "level": null
-                        },
                         "fr": {
-                            "title": "Arts Visuels",
+                            "title": "Créateur de contenu sur Twitch et Youtube",
                             "description": "Exploration de l'esthétique visuelle, du design graphique et expression d'idées par la créativité artistique.",
-                            "level": null
-                        },
-                        "zh": {
-                            "title": "视觉艺术",
-                            "description": "探索视觉美学，平面设计，通过艺术创意表达思想。",
                             "level": null
                         }
                     }
