@@ -29,7 +29,10 @@
             "view_more_info": "View More Info",
             "view_on_app_store": "App Store",
             "view_on_google_play": "Google Play",
-            "view_on_windows_store": "Windows Store"
+            "view_on_windows_store": "Windows Store",
+            "try_the_game": "Try the game!",
+            "visit_website": "Visit the website!",
+            "view_source": "View source code"
         },
         "fr": {
             "about": "À propos",
@@ -60,7 +63,10 @@
             "view_more_info": "Voir plus d'informations",
             "view_on_app_store": "App Store",
             "view_on_google_play": "Google Play",
-            "view_on_windows_store": "Windows Store"
+            "view_on_windows_store": "Windows Store",
+            "try_the_game": "Essayez le jeu !",
+            "visit_website": "Visitez le site web !",
+            "view_source": "Voyez le code source"
         }
     }
 }
