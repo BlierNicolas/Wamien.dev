@@ -208,12 +208,12 @@
                     "locales": {
                         "en": {
                             "title": "Music",
-                            "description": "Listening music while working is the best way for me to be in the zone.",
+                            "description": "I love listening to music it sparks my imagination, gives me idea, and promotes me in the zone while programming.",
                             "level": null
                         },
                         "fr": {
                             "title": "Musique",
-                            "description": "Écouter de la musique en travaillant est le meilleur moyen d'entrer dans ma bulle.",
+                            "description": "J'adore écouter de la musique, ça éveille mon imagination, me donne des idées et m'aide à entrer dans ma bulle pendant que je travaille.",
                             "level": null
                         }
                     }
