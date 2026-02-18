@@ -19,7 +19,7 @@
                     "locales": {
                         "en": {
                             "title": "Pre-University Program in Computer Science",
-                            "description": "Almost completed (missing one philosophy class) the program covering foundational computer science topics such as programming, algorithms, and data structures. Gained hands-on experience with problem-solving and logical thinking.",
+                            "description": "Attended the program covering foundational computer science topics such as programming, algorithms, and data structures. Gained hands-on experience with problem-solving and logical thinking.",
                             "province": "Quebec",
                             "country": "Canada",
                             "institution": "Rosemont College",
@@ -27,7 +27,7 @@
                         },
                         "fr": {
                             "title": "Technique Informatique",
-                            "description": "A pratiquement achevé (il me reste le cours de philosophie 3 à faire) la technique informatique où on voyait la programmation, les algorithmes et les structures de données. Acquis une expérience pratique en résolution de problèmes et en pensée logique.",
+                            "description": "Étudié dans la technique informatique où on voyait la programmation, les algorithmes et les structures de données. Acquis une expérience pratique en résolution de problèmes et en pensée logique.",
                             "province": "Québec",
                             "country": "Canada",
                             "institution": "Collège de Rosemont",
