@@ -33,12 +33,12 @@
                     "locales": {
                         "en": {
                             "title": "Viral Core (Formerly Mega Robot)",
-                            "description": "It’s a turn-by-turn fighting strategy game where your goal is to detroy your opponent’s robot to win experience, advance the story, upgrade your robot, complete quests and achievements to prove that you are the best soldier! The game have been playtested by around 40 players.",
+                            "description": "Designed and developed tactical combat systems, player progression systems, quest management features, and Firebase backend integration. More than 40 external testers participated in validation and playtesting phases.",
                             "tags": ["video game", "strategy", "personnal project", "management", "game design", "programming", "c#", "teamwork", "brainstorming", "unity", "firebase", "trello", "gitlab", "agile"]
                         },
                         "fr": {
                             "title": "Viral Core (Précédement Mega Robot)",
-                            "description": "Mega Robot est un jeu de combat stratégique en tour par tour où votre objectif est de détruire le robot adverse pour gagner de l'expérience, avancer dans l'histoire, améliorer vos membres, compléter des quêtes et des succès pour prouver que vous êtes le meilleur des meilleurs. Le jeu a été testé par plus d’une quarantaine de personnes.",
+                            "description": "Conception et développement des systèmes de combat tactique, progression du joueur, gestion des quêtes et intégration backend Firebase. Plus de 40 testeurs externes ont participé aux phases de validation.",
                             "tags": ["jeux vidéo", "stratégie", "projet personnel", "organisation", "game design", "programmation", "c#", "travail d'équipe", "brainstorming", "unity", "firebase", "trello", "gitlab", "agile"]
                         }
                     },
@@ -77,7 +77,7 @@
                     "locales": {
                         "en": {
                             "title": "Wired-Up",
-                            "description": "Discover and document the world of birds with <b>Bird Tracker</b>! Whether you're a seasoned birdwatcher or just starting out, this app helps you identify species, log sightings, and track migration patterns. Use AI-powered recognition, interactive maps, and detailed bird profiles to enhance your birdwatching experience. Get closer to nature with <b>Bird Tracker</b>!",
+                            "description": "A time-based survival game where players must quickly connect diodes across the game board to earn points and survive as long as possible.",
                             "tags": ["game jam", "management", "programming", "brainstorming", "teamwork", "unity", "c#", "trello", "github"]
                         },
                         "fr": {
@@ -159,12 +159,12 @@
                     "locales": {
                         "en": {
                             "title": "Guesstiny",
-                            "description": "Website inspired of the concept of Geoguessr, but for the universe of Destiny 2. The player is in front of an image and must guess where he is in the world, which enemies he should encounter and which activities the player can access this area.",
+                            "description": "Contributed to the creation and expansion of a Destiny 2 quiz game inspired by Geoguessr. Designed new game content, tested quizzes and website features, and used internal tools to manage and update content while ensuring a consistent and high-quality user experience.",
                             "tags": ["website", "management", "game design", "teamwork", "vuejs", "mysql", "nodejs", "agile", "quiz", "entertainment"]
                         },
                         "fr": {
                             "title": "Guesstiny",
-                            "description": "Site inspiré du concept de Geoguessr, mais dans l’univers de Destiny 2. Le joueur est face à une image du jeu et doit déterminer où il se trouve, quels ennemis peuvent être présents et dans quelle activité il a accès à la zone.",
+                            "description": "Participation à la création et à l'enrichissement d'un jeu de quiz inspiré de Geoguessr dans l'univers de Destiny 2. Conception de nouveaux contenus de jeu, validation des quiz et des fonctionnalités du site, ainsi qu'utilisation d'outils internes permettant la gestion et la mise à jour du contenu afin d'assurer une expérience utilisateur cohérente et de qualité.",
                             "tags": ["site web", "organisation", "game design", "travail d'équipe", "vuejs", "mysql", "nodejs", "agile", "quiz", "divertissement"]
                         }
                     },
@@ -182,12 +182,12 @@
                     "locales": {
                         "en": {
                             "title": "Wasted on Destiny",
-                            "description": "Wasted on Destiny is a project that allow guardians to see how much time they spent on Destiny 2, what title they got, what activity they prefer, their rank during all the seasons and several other informations.",
+                            "description": "Contributed to the evolution of a Destiny 2 statistics platform. Integrated and maintained data from Bungie's official API, designed and adapted user interfaces to support new features and data, and proposed improvements to enhance user experience and advertising visibility.",
                             "tags": ["website", "vuejs", "nodejs", "tailwind", "typescript"]
                         },
                         "fr": {
                             "title": "Wasted on Destiny",
-                            "description": "Wasted on Destiny est un projet visant à voir combien de temps un joueur a mis sur Destiny 2, quels sont les titres qu'il a obtenu, quel type d'activité il préfère, son rang à travers toutes les saisons du jeu et plusieurs autres informations.",
+                            "description": "Participation à l'évolution d'une plateforme d'analyse statistique pour Destiny 2. Intégration et mise à jour des données provenant de l'API officielle de Bungie, conception et adaptation des interfaces utilisateur en fonction des nouvelles informations disponibles, ainsi que proposition d'améliorations visant à optimiser l'expérience utilisateur et la mise en valeur des espaces publicitaires du site.",
                             "tags": ["site web", "vuejs", "nodejs", "tailwind", "typescript"]
                         }
                     },

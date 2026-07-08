@@ -28,9 +28,9 @@
                                     "Develop admin interfaces."
                                 ]
                             },
-                            "province": "Hannover",
-                            "country": "Germany",
-                            "institution": "UX Masters Studio",
+                            "province": "Quebec",
+                            "country": "Canada",
+                            "institution": "HELPOX",
                             "tags": ["PHP", "Prototyping", "Responsive Design", "Intranet", "API"]
                         },
                         "fr": {
@@ -65,11 +65,11 @@
                             "list": {
                                 "title": "Key Responsibilities:",
                                 "items": [
-                                    "Plan and develop websites for several clients.",
-                                    "Support clients, analyse their project and evaluate the requests.",
-                                    "Develop website pages while following mockups.",
-                                    "Develop compatibility with browser and mobile format.",
-                                    "Program page components on several platforms."
+                                    "Developed websites for clients across multiple industries.",
+                                    "Collaborated with clients to analyze requirements and assess project feasibility.",
+                                    "Implemented front-end features based on design specifications.",
+                                    "Ensured compatibility across desktop and mobile platforms.",
+                                    "Developed reusable web components for multiple platforms and projects."
                                 ]
                             },
                             "province": "Quebec",
@@ -85,7 +85,7 @@
                                 "items": [
                                     "Participer au développement de sites web pour différents clients.",
                                     "Accompagner les clients, l’analyse de projets et la faisabilité des demandes.",
-                                    "Développer les pages des sites selon les plans indiqués.",
+                                    "Développement frontend des sites selon les plans indiqués.",
                                     "Assurer que les sites soient compatibles sur desktop et mobile.",
                                     "Programmer des composantes de sites web sur différentes plateformes."
                                 ]
@@ -111,9 +111,9 @@
                             "list": {
                                 "title": "Key Responsibilities:",
                                 "items": [
-                                    "Add gameplay features to the game.",
-                                    "Find and fix the bugs.",
-                                    "Optimise the game to work on consoles."
+                                    "Designed and implemented new gameplay mechanics for a commercial Unity project.",
+                                    "Debugged and resolved software defects to improve product stability and reliability.",
+                                    "Optimized existing systems to meet console performance requirements and platform compliance standards."
                                 ]
                             },
                             "province": "Quebec",
@@ -127,9 +127,9 @@
                             "list": {
                                 "title": "Responsabilités Clés:",
                                 "items": [
-                                    "Ajouter des fonctionnalités gameplay au jeu.",
-                                    "Corriger les bugs qui ont été identifiés.",
-                                    "Optimiser le code pour le portage sur consoles."
+                                    "Développement et intégration de nouvelles mécaniques gameplay dans un projet commercial sous Unity.",
+                                    "Analyse et résolution de défauts logiciels afin d'améliorer la stabilité du produit.",
+                                    "Optimisation des systèmes existants pour assurer la conformité et les performances sur plateformes consoles."
                                 ]
                             },
                             "province": "Québec",
