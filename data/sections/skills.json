@@ -228,11 +228,11 @@
                     "fallbackFaIconColor": null,
                     "locales": {
                         "en": {
-                            "title": "C#",
+                            "title": "C# / .NET",
                             "description": "Experienced with C# elements and features."
                         },
                         "fr": {
-                            "title": "C#",
+                            "title": "C# / .NET",
                             "description": "Expérimenté avec les éléments et fonctionnalités C#."
                         }
                     }
