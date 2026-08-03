@@ -153,7 +153,7 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2017, "month": 4},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-unity",
                     "fallbackFaIconColor": null,
@@ -170,7 +170,7 @@
                 },
                 {
                     "id": 2,
-                    "dateStart": {"year": 2024, "month": 6},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -187,7 +187,7 @@
                 },
                 {
                     "id": 3,
-                    "dateStart": {"year": 2025, "month": 8},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -222,7 +222,7 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2014, "month": 4},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -233,13 +233,13 @@
                         },
                         "fr": {
                             "title": "C# / .NET",
-                            "description": "Expérimenté avec les éléments et fonctionnalités C#."
+                            "description": "Expérimenté avec les éléments et fonctionnalités C# / .NET."
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "dateStart": {"year": 2014, "month": 4},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -256,7 +256,7 @@
                 },
                 {
                     "id": 3,
-                    "dateStart": {"year": 2015, "month": 4},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -273,7 +273,7 @@
                 },
                 {
                     "id": 4,
-                    "dateStart": {"year": 2014, "month": 4},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-html5",
                     "fallbackFaIconColor": null,
@@ -290,7 +290,7 @@
                 },
                 {
                     "id": 5,
-                    "dateStart": {"year": 2014, "month": 4},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-css3-alt",
                     "fallbackFaIconColor": null,
@@ -307,7 +307,7 @@
                 },
                 {
                     "id": 6,
-                    "dateStart": {"year": 2014, "month": 8},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-js-square",
                     "fallbackFaIconColor": null,
@@ -324,7 +324,7 @@
                 },
                 {
                     "id": 7,
-                    "dateStart": {"year": 2020, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-react",
                     "fallbackFaIconColor": null,
@@ -341,7 +341,7 @@
                 },
                 {
                     "id": 8,
-                    "dateStart": {"year": 2022, "month": 3},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-vuejs",
                     "fallbackFaIconColor": null,
@@ -376,7 +376,7 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2009, "month": 4},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -393,7 +393,7 @@
                 },
                 {
                     "id": 2,
-                    "dateStart": {"year": 2019, "month": 4},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -410,7 +410,7 @@
                 },
                 {
                     "id": 3,
-                    "dateStart": {"year": 2024, "month": 8},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -445,7 +445,7 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2012, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-github",
                     "fallbackFaIconColor": null,
@@ -462,7 +462,7 @@
                 },
                 {
                     "id": 2,
-                    "dateStart": {"year": 2019, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-gitlab",
                     "fallbackFaIconColor": null,
@@ -479,7 +479,7 @@
                 },
                 {
                     "id": 3,
-                    "dateStart": {"year": 2025, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -514,7 +514,7 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2016, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -531,7 +531,7 @@
                 },
                 {
                     "id": 2,
-                    "dateStart": {"year": 2014, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -548,7 +548,7 @@
                 },
                 {
                     "id": 3,
-                    "dateStart": {"year": 2018, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -565,7 +565,7 @@
                 },
                 {
                     "id": 4,
-                    "dateStart": {"year": 2016, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -600,7 +600,7 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2018, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
@@ -617,7 +617,7 @@
                 },
                 {
                     "id": 2,
-                    "dateStart": {"year": 2014, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
@@ -634,7 +634,7 @@
                 },
                 {
                     "id": 3,
-                    "dateStart": {"year": 2014, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
@@ -651,7 +651,7 @@
                 },
                 {
                     "id": 4,
-                    "dateStart": {"year": 2018, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
@@ -686,7 +686,7 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2020, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-trello",
                     "fallbackFaIconColor": null,
@@ -703,7 +703,7 @@
                 },
                 {
                     "id": 2,
-                    "dateStart": {"year": 2024, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -720,7 +720,7 @@
                 },
                 {
                     "id": 3,
-                    "dateStart": {"year": 2021, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-confluence",
                     "fallbackFaIconColor": null,
@@ -737,7 +737,7 @@
                 },
                 {
                     "id": 4,
-                    "dateStart": {"year": 2016, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-jira",
                     "fallbackFaIconColor": null,
@@ -754,7 +754,7 @@
                 },
                 {
                     "id": 5,
-                    "dateStart": {"year": 2025, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -771,7 +771,7 @@
                 },
                 {
                     "id": 6,
-                    "dateStart": {"year": 2025, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -806,7 +806,7 @@
             "items": [
                 {
                     "id": 1,
-                    "dateStart": {"year": 2017, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -823,7 +823,7 @@
                 },
                 {
                     "id": 2,
-                    "dateStart": {"year": 2018, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
@@ -840,7 +840,7 @@
                 },
                 {
                     "id": 3,
-                    "dateStart": {"year": 2018, "month": 1},
+                    "dateStart": null,
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-code",
                     "fallbackFaIconColor": null,
