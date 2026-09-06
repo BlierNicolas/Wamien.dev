@@ -47,7 +47,7 @@
             },
             "items": [
                 {
-                    "id": 1,
+                    "id": 2,
                     "dateStart": {"year": 2025, "month": 5},
                     "fallbackFaIcon": "fa-brands fa-none",
                     "fallbackFaIconColor": null,
@@ -65,6 +65,27 @@
                     },
                     "links": [
                         {"href": "https://bdeb-formationcontinue.omnivox.ca/cncr/insc/InfoActivite.ovx?NoActivite=2_JVH25&L=FRA", "stringKey": "view_certification"}
+                    ]
+                },
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2026, "month": 10},
+                    "fallbackFaIcon": "fa-brands fa-none",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "AI Agent- Development assisted in Video Game",
+                            "description": "Certification in progress at Bois-de-Boulogne college in video game development assisted by AI.",
+                            "institution": "Bois-de-Boulogne College"
+                        },
+                        "fr": {
+                            "title": "Agent IA- Développement assisté en jeux vidéo",
+                            "description": "Certification en cours par le Collège de Bois-de-Boulogne en développement de jeux vidéo assisté par l'IA.",
+                            "institution": "Collège de Bois-de-Boulogne"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://www.bdeb.qc.ca/perfectionnement/agent-ia-developpement-assiste-en-jeux-video-niveau-intermediaire/", "stringKey": "view_certification"}
                     ]
                 }
             ]
