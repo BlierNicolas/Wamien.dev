@@ -47,27 +47,6 @@
             },
             "items": [
                 {
-                    "id": 2,
-                    "dateStart": {"year": 2025, "month": 5},
-                    "fallbackFaIcon": "fa-brands fa-none",
-                    "fallbackFaIconColor": null,
-                    "locales": {
-                        "en": {
-                            "title": "Video Game Business start-ups Certification",
-                            "description": "Certified by Bois-de-Boulogne college in video game business start-ups.",
-                            "institution": "Bois-de-Boulogne College"
-                        },
-                        "fr": {
-                            "title": "Certification Démarrage d'entreprise de jeux vidéo",
-                            "description": "Certifié par le Collège de Bois-de-Boulogne en démarrage d'entreprise de jeux vidéo.",
-                            "institution": "Collège de Bois-de-Boulogne"
-                        }
-                    },
-                    "links": [
-                        {"href": "https://bdeb-formationcontinue.omnivox.ca/cncr/insc/InfoActivite.ovx?NoActivite=2_JVH25&L=FRA", "stringKey": "view_certification"}
-                    ]
-                },
-                {
                     "id": 1,
                     "dateStart": {"year": 2026, "month": 10},
                     "fallbackFaIcon": "fa-brands fa-none",
@@ -86,6 +65,27 @@
                     },
                     "links": [
                         {"href": "https://www.bdeb.qc.ca/perfectionnement/agent-ia-developpement-assiste-en-jeux-video-niveau-intermediaire/", "stringKey": "view_certification"}
+                    ]
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2025, "month": 5},
+                    "fallbackFaIcon": "fa-brands fa-none",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Video Game Business start-ups Certification",
+                            "description": "Certified by Bois-de-Boulogne college in video game business start-ups.",
+                            "institution": "Bois-de-Boulogne College"
+                        },
+                        "fr": {
+                            "title": "Certification Démarrage d'entreprise de jeux vidéo",
+                            "description": "Certifié par le Collège de Bois-de-Boulogne en démarrage d'entreprise de jeux vidéo.",
+                            "institution": "Collège de Bois-de-Boulogne"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://bdeb-formationcontinue.omnivox.ca/cncr/insc/InfoActivite.ovx?NoActivite=2_JVH25&L=FRA", "stringKey": "view_certification"}
                     ]
                 }
             ]
